@@ -9,6 +9,8 @@ This repository contains analysis notebooks demonstrating the application of non
 - **Protein folding** (`protein_folding.ipynb`)
 - **Ocean circulation (AMOC)** (`AMOC.ipynb`)
 - **Underdamped Langevin dynamics** (`Langevin.ipynb`)
+- **Underdamped Langevin dynamics run on Google colab** (`Langevin_colab.ipynb`)
+- 
 
 The core implementation of the RC optimization framework is available in a separate repository:  
 🔗 [optimalrcs](https://github.com/krivovsv/optimalrcs)
